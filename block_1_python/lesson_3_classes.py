@@ -60,5 +60,3 @@ print(form3.validate())
 form3.show_validation_errors()
 
 print(RegistrationForm.forms_created)
-
-
