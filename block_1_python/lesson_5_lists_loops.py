@@ -65,3 +65,4 @@ for expect, actual in zip(expected_titles, actual_titles):
         print(f'[ПРОВАЛЕН] Ожидалось: {expect}, получено: {actual}')
     else:
         print(f'[ПРОЙДЕН] Ожидалось: {expect}, получено: {actual}')
+
